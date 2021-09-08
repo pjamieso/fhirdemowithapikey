@@ -24,7 +24,9 @@ Developers can try the service for free by signing up at [https://portal.trial.i
 
 The application addresses a practical problem, how to securely retrieve personal health information (PHI), stored in a FHIR server. This demo uses an API key, but a better approach is using OAuth 2.0, a modern security framework enabling distributed authentication and authorization. You can get that demo at [https://github.com/pjamieso/fhirokta]
 
+To use the demo, first create a deployment with the IRIS FHIR Accelerator Service at [https://portal.live.isccloud.io/account/login]. For a small deployment, this is entirely free, no credit card required. 
 
+After you have launched your deployment, go to the credentials tab and create an API key. Copy this key to your clipboard and paste it in xapikey in the environment.ts file. Go back to the overview tab under deployments and copy the Api Key Endpoint to the clipboard and paste that next to fhirbaseurl in the enviroment.ts file.
 
 If you have any questions, please drop me a line at [patrick.jamieson@intersystems.com](mailto:patrick.jamieson@intersystems.com)
 
