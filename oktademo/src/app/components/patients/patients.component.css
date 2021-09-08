@@ -1,0 +1,16 @@
+.previousButton {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    display:inline-block;
+    width: 140px;
+}
+
+.nextButton {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 500px;
+    width: 140px;
+    display:inline-block;
+}
+
