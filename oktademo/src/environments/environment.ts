@@ -4,8 +4,8 @@
 
 export const environment = {
   production: false,
-  fhirbaseUrl: "",
-  xapikey: ''
+  fhirbaseUrl: "https://fhir.68wxc790mdh6.static-test-account.isccloud.io",
+  xapikey: 'jlGtDA9rrJ23hdLeGFvZ45OBf5Z0dwbUPW9FKi6c'
 };
 
 //this is the api key for the InterSystems FHIR Accelerator Service

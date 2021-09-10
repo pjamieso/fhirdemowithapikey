@@ -20,7 +20,7 @@ This document describes a sample FHIR application, which was developed to provid
 
 • Logging of FHIR request data
 
-Developers can try the service for free by signing up at [https://portal.trial.isccloud.io/account/login](https://portal.trial.isccloud.io/account/login)
+Developers can try the service for free by signing up at [https://portal.live.isccloud.io/account/login](https://portal.live.isccloud.io/account/login)
 
 The application addresses a practical problem, how to securely retrieve personal health information (PHI), stored in a FHIR server. This demo uses an API key, but a better approach is using OAuth 2.0, a modern security framework enabling distributed authentication and authorization. You can get that demo at [https://github.com/pjamieso/fhirokta]
 
