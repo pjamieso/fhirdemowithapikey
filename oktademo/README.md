@@ -2,7 +2,7 @@
 
 # Cloud FHIR Integration with API Key
 
-## INTRODUCTION
+## INTRODUCTION 
 
 This document describes a sample FHIR application, which was developed to provide a template for building an Angular full stack application in a secure manner using an API key.  The application is open source and can be downloaded at: [https://github.com/pjamieso/fhirdemowithapikey](https://github.com/pjamieso/fhirdemowithapikey). The app uses the IRIS FHIR Accelerator Service, a cloud based FHIR service, which is easy to deploy. The FHIR Accelerator Service has many useful features including:
 
