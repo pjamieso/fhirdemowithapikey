@@ -1,6 +1,6 @@
-# Oktademo
+# FHIR API Key Demo
 
-# Okta FHIR Integration
+# FHIR Integration with API Key
 
 ## INTRODUCTION
 
